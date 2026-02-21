@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**egzilves/egzilves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Mechanical Engineer and a **PhD Candidate in Computational Modeling**. 
+My work bridges complex math and physics to computation, translating physical sciences into simulations, scientific computing, and data analysis.
 
-Here are some ideas to get you started:
+### What I do
+* **Research:** Mathematical and computational modeling of physiological systems using optimization methods, numerical simulations, and machine learning. 
+* **Teaching & Mentoring:** Helping university students and developers worldwide master algorithms, math, physics, and programming concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack & Tools
+* **Languages:** `C`, `C++`, `Python` 
+* **Libraries:** `NumPy`, `SciPy`, `Pandas`, `Matplotlib`
+* **Visualization & Simulation:** `Paraview`, `Blender`
+
+### How to reach me
+* [LinkedIn](https://www.linkedin.com/in/eduardo-zilves/)
